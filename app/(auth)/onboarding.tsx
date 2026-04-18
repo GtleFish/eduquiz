@@ -22,7 +22,7 @@ const { width } = Dimensions.get('window');
 const STEPS = [
   {
     // Onboarding1 — "Học cùng bạn bè"
-    image: require('../../assets/images/icon.png'),
+    image: require('../../assets/icon.png'),
     badge: { icon: '⚡', label: 'Học tập vui vẻ', sub: '+2,400 XP' },
     title: 'Học cùng bạn bè',
     description: 'Thách đấu và học tập cùng hàng triệu học sinh khác trên khắp cả nước.',
@@ -30,7 +30,7 @@ const STEPS = [
   },
   {
     // Onboarding2 — "Thi thử mọi lúc"
-    image: require('../../assets/images/icon.png'),
+    image: require('../../assets/icon.png'),
     badge: { icon: '⭐', label: 'Best Score', sub: '' },
     title: 'Thi thử mọi lúc',
     description: 'Kho đề thi phong phú, cập nhật liên tục giúp bạn tự tin chinh phục mọi kỳ thi.',
