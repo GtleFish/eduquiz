@@ -30,7 +30,7 @@ export default function GetStartedScreen() {
       {/* Hero image */}
       <View style={styles.heroWrapper}>
         <Image
-          source={require('../../assets/images/icon.png')}
+          source={require('../../assets/icon.png')}
           style={styles.heroImage}
           resizeMode="cover"
         />
